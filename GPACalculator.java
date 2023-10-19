@@ -53,7 +53,7 @@ public abstract class GPACalculator implements ActionListener {
         // creates a frame object
         JFrame frame = new JFrame();
         // set a title for the frame
-        frame.setTitle("GPA Calculator Miami University Â©2022");
+        frame.setTitle("GPA Calculator MU Mockup ©2022");
         // set a size for the frame (width, height)
         frame.setSize(530, 600);
         // exit out of application
